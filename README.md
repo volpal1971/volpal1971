@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @volpal1971
-- 👀 I’m interested in KI and softwaredevelopment 
-- 🌱 I’m currently learning softwaredevelopment
+- 👀 I’m interested in KI and Softwaredevelopment 
+- 🌱 I’m currently studying softwaredevelopment
 
 <!---
 volpal1971/volpal1971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
